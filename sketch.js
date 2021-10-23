@@ -7,7 +7,7 @@ function preload(){
   shooterImg = loadImage("assets/shooter_2.png")
   shooter_shooting = loadImage("assets/shooter_3.png")
 
-  bgImg = loadImage("assets/bg.jpeg")
+  bgImg = loadImage("assets/burry.jpeg")
 
 }
 
